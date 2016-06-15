@@ -1,0 +1,16 @@
+<resources>
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+   
+
+    <!-- Application theme. -->
+    <style name="text_item">
+        <item name="android:layout_width">@dimen/dp0</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_weight">@string/num1</item>
+    </style>
+
+</resources>
